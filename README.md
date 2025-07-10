@@ -41,7 +41,7 @@ I'm a passionate **Full-Stack Developer** with expertise in both front-end and b
 
 | 🎓 **Degree** | 🏫 **Institution** | 📅 **Duration** | 📊 **Grade** |
 |---------------|---------------------|------------------|---------------|
-| **Bachelor of Engineering** | Study World College of Engineering | 2021 - Present | CGPA: 7.68/10 |
+| **Bachelor of Engineering** | Study World College of Engineering | 2021 - 2025 | CGPA: 7.8/10 |
 | **Higher Secondary** | Narayana Jr College | 2019 - 2021 | 86.9% |
 | **Secondary School** | Z.P.H School | 2018 - 2019 | 88% |
 
