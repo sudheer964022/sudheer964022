@@ -33,8 +33,7 @@ me = FullStackDeveloper()
 me.say_hi()
 ```
 
-I'm a passionate **Full-Stack Developer** with expertise in both front-end and back-end technologies. I thrive in dynamic environments where I can solve complex problems, build scalable applications, and collaborate with teams to deliver high-quality solutions. Currently seeking opportunities to contribute meaningfully to innovative tech solutions.
-
+I'm a passionate **Full-Stack Developer** with expertise in both front-end and back-end technologies. I thrive in dynamic environments where I can solve complex problems, build scalable applications, and collaborate with teams to deliver high-quality solutions.
 ---
 
 ## 🎓 Education
