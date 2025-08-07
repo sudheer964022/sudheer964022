@@ -24,7 +24,8 @@ Hi, I’m @sudheer964022
   </a>
 
 </div>
-  
+
+  <hr>
 
 ## 🚀 About Me
 
