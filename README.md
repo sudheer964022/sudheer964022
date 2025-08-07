@@ -23,8 +23,8 @@ class FullStackDeveloper:
         self.name = "Kancham Sudheer Reddy"
         self.role = "Full Stack Developer"
         self.language_spoken = ["English", "Telugu"]
-        self.code = ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL"]
-        self.tools = ["React", "MySQL", "VS Code"]
+        self.code = ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL", "MySQL"]
+        self.tools = ["VS Code", "GitHub"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together.")
