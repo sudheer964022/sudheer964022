@@ -36,14 +36,9 @@ me.say_hi()
 I'm a passionate **Full-Stack Developer** with expertise in both front-end and back-end technologies. I thrive in dynamic environments where I can solve complex problems, build scalable applications, and collaborate with teams to deliver high-quality solutions.
 ---
 
-## 🎓 Education
-
-| 🎓 **Degree** | 🏫 **Institution** | 📅 **Duration** | 📊 **Grade** |
-|---------------|---------------------|------------------|---------------|
-| **Bachelor of Engineering** | Study World College of Engineering | 2021 - 2025 | CGPA: 7.8/10 |
-| **Higher Secondary** | Narayana Jr College | 2019 - 2021 | 86.9% |
-| **Secondary School** | Z.P.H School | 2018 - 2019 | 88% |
-
+<div align="center">
+🎓 Education
+<table> <tr> <th>🎓 <b>Degree</b></th> <th>🏫 <b>Institution</b></th> <th>📅 <b>Duration</b></th> <th>📊 <b>Grade</b></th> </tr> <tr> <td>Bachelor of Engineering</td> <td>Study World College of Engineering</td> <td>2021 - 2025</td> <td>CGPA: 7.8/10</td> </tr> <tr> <td>Higher Secondary</td> <td>Narayana Jr College</td> <td>2019 - 2021</td> <td>86.9%</td> </tr> <tr> <td>Secondary School</td> <td>Z.P.H School</td> <td>2018 - 2019</td> <td>88%</td> </tr> </table> </div>
 ---
 
 ## 💻 Tech Stack
