@@ -96,10 +96,10 @@ I'm a passionate **Full-Stack Developer** with expertise in both front-end and b
 
 ```javascript
 const currentFocus = {
-    learning: ["Advanced React Patterns", "Cloud Technologies", "DevOps"],
-    building: ["Full Stack Web Applications", "REST APIs", "Responsive UIs"],
-    exploring: ["Machine Learning", "Blockchain", "Mobile Development"],
-    goals: ["Land a Full Stack Developer Role", "Contribute to Open Source", "Build SaaS Products"]
+    learning: ["Advanced React Patterns"],
+    building: ["Java Full Stack", "Responsive UIs"],
+    exploring: ["Mobile Development"],
+    goals: ["Land a Full Stack Developer Role"]
 };
 ```
 
