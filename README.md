@@ -28,7 +28,10 @@ Hi, I’m @sudheer964022
 
 ## 🚀 About Me
 
-```python
+<div align="center">
+
+  <pre>
+<code>
 class FullStackDeveloper:
     def __init__(self):
         self.name = "Kancham Sudheer Reddy"
@@ -42,7 +45,11 @@ class FullStackDeveloper:
 
 me = FullStackDeveloper()
 me.say_hi()
-```
+</code>
+  </pre>
+
+</div>
+
 
 I'm a passionate **Full-Stack Developer** with expertise in both front-end and back-end technologies. I thrive in dynamic environments where I can solve complex problems, build scalable applications, and collaborate with teams to deliver high-quality solutions.
 ---
