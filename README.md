@@ -1,4 +1,3 @@
-Hi, I’m @sudheer964022 
 # Hi there! 👋 I'm **KANCHAM SUDHEER REDDY**
 
 <div align="center">
