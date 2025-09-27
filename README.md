@@ -1,36 +1,6 @@
 # Hi there! 👋 I'm **KANCHAM SUDHEER REDDY**
 
 
-<style>
-  body, div, p, h1, h2, h3, h4, h5, h6, span, a {
-  -webkit-user-select: none;  /* Safari */
-  -moz-user-select: none;     /* Firefox */
-  -ms-user-select: none;      /* IE10+ */
-  user-select: none;          /* Standard */
-  cursor: default;
-}
-* {
-  -webkit-user-drag: none;
-  user-drag: none;
-}
-</style>
-<script>
-  document.addEventListener('contextmenu', function(e) {
-    e.preventDefault();
-    alert("Right-click is disabled on this page!");
-  });
-</script>
-<script>
-  document.addEventListener('keydown', function(e) {
-    // Disable Ctrl+C, Ctrl+X, Ctrl+U
-    if ((e.ctrlKey || e.metaKey) && 
-        ['c','x','u'].includes(e.key.toLowerCase())) {
-      e.preventDefault();
-      alert("Copying is disabled on this page!");
-    }
-  });
-</script>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
