@@ -37,7 +37,7 @@ class FullStackDeveloper:
         self.name = "Kancham Sudheer Reddy"
         self.role = "Full Stack Developer"
         self.language_spoken = ["English", "Telugu"]
-        self.code = ["Java", "SQL", "HTML", "CSS", "JavaScript","Python"]
+        self.code = ["Java", "SQL", "HTML", "CSS", "JavaScript", "React"]
         self.tools = ["VS Code", "GitHub"]
         
     def say_hi(self):
@@ -61,7 +61,6 @@ I'm a passionate **Full-Stack Developer** with expertise in both front-end and b
 
 ### **Backend Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white),
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white),
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black).
 
 
