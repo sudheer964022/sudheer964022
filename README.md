@@ -12,19 +12,23 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/kancham-sudheer-reddy-0013342b7/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 
-<a href="https://github.com/sudheer964022" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</a>
+  <a href="https://github.com/sudheer964022" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 
-<a href="https://mail.google.com/mail/?view=cm&to=sudheerkancham4@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=sudheerkancham4@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 
+  <a href="https://kancham-sudheer-reddy-portfoilio.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge" />
+  </a>
 
 </div>
+
 
   <hr>
 
