@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 
-  <a href="https://kancham-sudheer-reddy-portfoilio.netlify.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://kancham-sudheer-reddy-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge" />
   </a>
 
