@@ -98,12 +98,8 @@ I'm a passionate **Full-Stack Developer** with expertise in both front-end and b
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudheer964022&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+ ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudheer964022&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
