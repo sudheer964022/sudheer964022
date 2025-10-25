@@ -167,7 +167,7 @@ for fact in fun_facts:
   
   <br>
   
-  ⭐ **From [Kancham Sudheer Reddy](https://github.com/sudheer964022)**
+  ⭐ **From [Kancham Sudheer Reddy](https://kancham-sudheer-reddy-portfolio.netlify.app/)**
   
 </div>
 
